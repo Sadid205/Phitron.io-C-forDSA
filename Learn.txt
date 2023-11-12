@@ -1,0 +1,5 @@
+What will we learn in this module?
+1.Which similarities between C programming and C++ Language.
+2.We will see Setprecision.
+3.We will see Ternary Operator, Switch Case.
+4.We will see the input output of String.
