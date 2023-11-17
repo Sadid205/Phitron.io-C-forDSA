@@ -1,0 +1,1 @@
+A.total_marks,B.total_marks,C.total_marks
